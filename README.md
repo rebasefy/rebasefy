@@ -1,4 +1,4 @@
-### Hi there 👋
+The rebasefy protool is here ⚡
 
 <!--
 **rebasefy/rebasefy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
